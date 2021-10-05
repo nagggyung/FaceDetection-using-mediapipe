@@ -1,5 +1,5 @@
-### Explaination:
-Google에서 제공하는 MediaPipe를 이용하여 실시간으로 Face detection을 구현 
+### Explanation:
+Google에서 제공하는 MediaPipe를 이용하여 실시간으로 Face detection을 구현 실습
 
 ### Result(GPU):
 
